@@ -14,6 +14,6 @@ Intellij : File > Open > Navegue até o diretorio em que está o souce do projet
 
 1- Executar a classe main, as intruções de embarque são efetuadas atraves do console.
 
-2- Na classe LocalTest estão os testes de integração referentes as regras de embarque!
+2- Na classe LocalTest estão os testes de integração referente as regras de embarque!
 
 
